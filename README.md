@@ -1,6 +1,6 @@
 # EduCommMono360Ops
 
-**EduCommMono360Ops** is an educational eCommerce platform built from scratch using a modern monorepo architecture. It incorporates DevOps practices, CI/CD pipelines, Kubernetes orchestration, SRE principles, and full SDLC workflows — designed for personal and educational learning.
+**EduCommMono360Ops** is an educational eCommerce platform built from scratch using a modern monorepo architecture. It incorporates DevOps practices, CI/CD pipelines, Kubernetes orchestration, SRE principles, and full SDLC workflows — designed for educational learning.
 
 ---
 
